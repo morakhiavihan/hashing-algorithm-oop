@@ -37,7 +37,8 @@ The project cleanly separates the core logic from the user interface:
 
 ## 📸 Screenshots
 
-*(You can add screenshots of the UI here to make your repository stand out!)*
+<img width="404" height="455" alt="image" src="https://github.com/user-attachments/assets/99dba072-a7e4-4666-a9a3-6edeca2a4c34" />
+
 
 ## 👨‍💻 Author
 
